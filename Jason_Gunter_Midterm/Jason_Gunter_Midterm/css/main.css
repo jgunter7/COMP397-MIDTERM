@@ -1,0 +1,21 @@
+﻿/* Header******************
+ *      Jason Gunter
+ *      main.css
+ *      June 16th, 2015
+ *      A simple Dice roller - radnomly generated values
+ * 
+ */
+
+body {
+}
+
+canvas {
+        border: 1px solid black;
+        }
+
+.centerize {
+    width:500px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
